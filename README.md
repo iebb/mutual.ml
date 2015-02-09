@@ -9,7 +9,7 @@ Note:
 
 USING IT IS **NOT** ENCOURAGED, AND DON'T USE IT AS A **PUBLIC** SERVICE
 
-> p*@**y.sh
+> pe@ppy.sh
 > 
 > Tue, 22 Jul 2014 10:23:51 +0900
 > 
