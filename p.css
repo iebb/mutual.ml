@@ -1,0 +1,115 @@
+.avatar-holder>img {
+padding: 0;
+max-width: 128px!important;
+max-height: 128px!important;
+display: inline-block;
+}
+.avatar-holder {
+padding: 5px;
+background: #fff;
+box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+max-width: 128px!important;
+max-height: 128px!important;
+border: 1px solid #ddd;
+padding: 3px;
+text-align: center;
+display: inline-block;
+vertical-align: middle;
+margin: auto;
+}
+.userbox {
+margin-top: 10px;
+padding-bottom: 0px!important;
+}
+.centrep {
+width: 100%;
+text-align: center;
+padding-bottom: 8px;
+}
+.btn:hover {
+text-decoration: none;
+text-shadow: 0px 0px 5px #ffffff;
+color: #ffffff;
+}
+a:hover {
+color: #3843a6;
+text-decoration: underline;
+}
+.btn {
+display: inline-block;
+padding: 5px 10px 5px 10px;
+text-align: center;
+border: none;
+min-width: 100px;
+margin: 5px;
+color: #ffffff;
+border-radius: 6px;
+font-size: 15px;
+background-color: rgb(91,83,153);
+background-image: linear-gradient(bottom,rgb(91,83,153) 0%,rgb(123,114,207) 100%);
+background-image: -o-linear-gradient(bottom,rgb(91,83,153) 0%,rgb(123,114,207) 100%);
+background-image: -moz-linear-gradient(bottom,rgb(91,83,153) 0%,rgb(123,114,207) 100%);
+background-image: -webkit-linear-gradient(bottom,rgb(91,83,153) 0%,rgb(123,114,207) 100%);
+background-image: -ms-linear-gradient(bottom,rgb(91,83,153) 0%,rgb(123,114,207) 100%);
+background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0,rgb(91,83,153)),color-stop(1,rgb(123,114,207)));
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+.profile-username {
+margin: 0px;
+padding-bottom: 2px;
+font-size: 250%;
+color: #000000;
+}
+.icon-minus-sign:before {
+content: "\f056";
+}
+[class^="icon-"]:before, [class*=" icon-"]:before {
+text-decoration: inherit;
+display: inline-block;
+cursor: default;
+speak: none;
+}
+.icon-heart:before {
+content: "\f004";
+}
+[class^="icon-"]:before, [class*=" icon-"]:before {
+text-decoration: inherit;
+display: inline-block;
+cursor: default;
+speak: none;
+}
+.icon-plus-sign:before {
+content: "\f055";
+}
+
+.icon-arrow-right:before {
+  content: "\f061";
+}
+.profile - details i {
+position: absolute;
+width: 23px;
+text - align: center;
+color: #76777b;font-size:130%;
+}
+.displayonhover{
+display:none;z-index:50;
+}div:hover>.displayonhover
+{display:inline-block;}
+@font-face{font-family:'FontAwesome';
+src:url('fontawesome-webfont.eot');
+src:url('fontawesome-webfont.eot')format('embedded-opentype'),
+url('fontawesome-webfont.woff')format('woff'),
+url('fontawesome-webfont.ttf')format('truetype'),
+url('fontawesome-webfont.svg')format('svg');
+font-weight:normal;
+font-style:normal;
+}
+[class^="icon-"],[class*=" icon-"]{font-family:FontAwesome;font-weight:normal;font-style:normal;text-decoration:inherit;-webkit-font-smoothing:antialiased;*margin-right:.3em;}
+[class^="icon-"]:before,[class*=" icon-"]:before{text-decoration:inherit;display:inline-block;cursor:default;speak:none;}
+.icon-large:before{vertical-align:-10%;font-size:1.3333333333333333em;}
+a [class^="icon-"],a [class*=" icon-"]{display:inline;}
